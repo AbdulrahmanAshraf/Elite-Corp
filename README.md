@@ -1,2 +1,2 @@
 # Elite-Corp
-website design
+programming company website 
